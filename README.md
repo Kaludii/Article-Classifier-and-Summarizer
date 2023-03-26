@@ -1,11 +1,12 @@
 
 # Article Classifier and Summarizer
 
-This repository contains a Streamlit app that classifies news articles into categories (e.g., politics, sports, technology, entertainment) and analyzes their tone (negative, positive, or neutral). In addition, the app summarizes the news article into different sections.
+A Streamlit app that classifies articles with URL or Text input into categories (e.g., politics, sports, technology, entertainment) and analyzes their tone (negative, positive, or neutral) using ChatGPT-Turbo API. In addition, the app summarizes the news article into different sections.
 
 # Web App
 Click [Here](https://huggingface.co/spaces/Kaludi/News-Classifier-and-Summarizer_App "Here") To View This App Online!
 
+![image](https://user-images.githubusercontent.com/63890666/227810609-aebd76d7-c36c-442b-9857-56ec47bb169f.png)
 
 ## Features
 
